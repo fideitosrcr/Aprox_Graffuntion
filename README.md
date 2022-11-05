@@ -1,8 +1,8 @@
-<h1 align="center"> Viaje al futuro y lluvias en noviembre </h1>
+<h1 align="center"> Aproximaciones de funciones y graficos  </h1>
 
  
 
-![Z7udqT3-1024x350](https://user-images.githubusercontent.com/104390248/193504835-992d5f77-7596-49a1-b6a7-aa9962e8b5fd.jpeg)
+![Z7udqT3-1024x350](https://ibb.co/pWHQbr2)
 
 ## Índice
 
