@@ -1,12 +1,14 @@
 <h1 align="center"> Aproximaciones de funciones y graficos  </h1>
 
 <p align="center">
- ![repo3](https://user-images.githubusercontent.com/104390248/200101460-5aebc782-6f4e-49af-a036-efa297068398.PNG)
+ <img![repo3](https://user-images.githubusercontent.com/104390248/200101460-5aebc782-6f4e-49af-a036-efa297068398.PNG)/>
 
 </p>
 
 
+<p align="center"> <img /> </p>
 
+Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 
 ## Índice
 
