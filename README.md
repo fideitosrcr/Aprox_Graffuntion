@@ -2,7 +2,7 @@
 ![repo3](https://user-images.githubusercontent.com/104390248/200101536-42ca3d89-52df-466f-8b8e-18064fade8c3.PNG)
 
 
-Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
+
 
 ## Índice
 
