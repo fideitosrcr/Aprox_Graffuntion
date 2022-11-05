@@ -1,7 +1,4 @@
 <h1 align="center"> Aproximaciones de funciones y graficos  </h1>
-![repo3](https://user-images.githubusercontent.com/104390248/200101536-42ca3d89-52df-466f-8b8e-18064fade8c3.PNG)
-
-
 
 
 ## Índice
