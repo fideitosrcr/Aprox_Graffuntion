@@ -1,9 +1,8 @@
 <h1 align="center"> Aproximaciones de funciones y graficos  </h1>
 
 
-![newton-raphson](https://user-images.githubusercontent.com/104390248/200101669-ee2ebad7-0aa1-4bc2-96cd-48d6a1494025.jpg)
 
-![repo3](https://user-images.githubusercontent.com/104390248/200101683-3426ffbb-6832-4fda-b339-49c82805b9ca.PNG)
+<h1 align="center"> ![repo3](https://user-images.githubusercontent.com/104390248/200101683-3426ffbb-6832-4fda-b339-49c82805b9ca.PNG)  </h1>
 
 ## Índice
 
