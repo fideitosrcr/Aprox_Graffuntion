@@ -32,6 +32,7 @@ a y b es el rango en el cual se generaran los valores para `x` y las variables c
 grafcar funciones trigonometricas o hiperbolicas, después le solicita que escoja cual de las funciones quiere graficar y por último el programa muestra la grafica 
 de dicha función en los valores a,b,c,d. La grafica se hace sobre una lista que contine 100 datos con proporciones de positivos y negativos variables. 
 A continuación un ejemplo del programa.
+
 ![porcentaje](https://user-images.githubusercontent.com/104390248/200102383-6fbb8860-f4bb-4256-8036-05599868dbb4.PNG)
 
 La grafica que arroja el programa para esos datos es la siguiente
@@ -41,4 +42,4 @@ La grafica que arroja el programa para esos datos es la siguiente
 
 ## Conclusión 
 
-La realización de los programas que se encuentran en este repositorio han sido de gran ayuda para expandir mi conocimiento en el manejo de `condicionales, clases, metodos y funciones` los programas están totalmente abiertos a consejos y usos. Como conclusión el programa `viaje al futuro` se basa en la utilización de condicionales y la clase `Histograma` se basa en la libreria `matplotlib`, la manipulación de los objetos de una clase y un cominezo a ver ciencia de datos.
+Las funciones que se encuenrtan en este repositorio son con un 
