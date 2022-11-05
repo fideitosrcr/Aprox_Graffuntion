@@ -1,8 +1,8 @@
 <h1 align="center"> Aproximaciones de funciones y graficos  </h1>
 
+![matematicas-recurso-bbva-1920x918](https://user-images.githubusercontent.com/104390248/200101787-18da0159-efa4-48dc-bfd8-53aa9abd6f96.jpg)
 
 
-<h1 align="center"> ![repo3](https://user-images.githubusercontent.com/104390248/200101683-3426ffbb-6832-4fda-b339-49c82805b9ca.PNG)  </h1>
 
 ## Índice
 
