@@ -1,6 +1,10 @@
 <h1 align="center"> Aproximaciones de funciones y graficos  </h1>
 
- ![repo3](https://user-images.githubusercontent.com/104390248/200101396-bbb698e8-f63e-48f1-91fd-69925592562f.PNG)
+<p align="center">
+ ![repo3](https://user-images.githubusercontent.com/104390248/200101460-5aebc782-6f4e-49af-a036-efa297068398.PNG)
+
+</p>
+
 
 
 
