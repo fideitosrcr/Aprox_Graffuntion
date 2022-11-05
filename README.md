@@ -42,4 +42,7 @@ La grafica que arroja el programa para esos datos es la siguiente
 
 ## Conclusión 
 
-Las funciones que se encuenrtan en este repositorio son con un 
+Las funciones que se encuenrtan en este repositorio son con enfocadas a casos atematicos utilizando librerias como `numpy` y `matplotlib`. Con los programas 
+se pueden realizar operaciones para aproximaciones sin pasar por todo el proceso del programa `aprox` ya que cuenta con funciones que lo hacen, también generación 
+de listas randos entre 2 rangos distintos, generación de listas con datos que no se repitan, entre otras. 
+ 
